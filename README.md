@@ -13,6 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo desarrollar un proyecto express sin morir en el intento.](https://roberto-mtz-med-cs.medium.com/c%C3%B3mo-desarrollar-un-proyecto-express-sin-morir-en-el-intento-33d755aa9f55?source=rss-9ba170e64858------2)
+- [Mamá, papá. Quiero ser programador](https://roberto-mtz-med-cs.medium.com/mam%C3%A1-pap%C3%A1-quiero-ser-programador-12a80cec2a5d?source=rss-9ba170e64858------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
